@@ -81,7 +81,10 @@ main{
 }
 
 .title-text{
-  padding:5px 0;
+  padding-bottom: 5px;
+  padding-top:15px;
+
+
 }
 
 footer{
